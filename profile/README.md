@@ -1,12 +1,19 @@
-## Hi there 👋
+# PROJETO INTERDICIPLINAR 3 BSI
 
-<!--
+O projeto proposto visa realizar análises estatísticas do conjunto de dados New York State Hospital Inpatient Discharge, a fim de examinar questões sociais e biológicas relacionadas às condições de saúde dos pacientes
 
-**Here are some ideas to get you started:**
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 👨‍🏫 Projessores
+
+  * ###  Gabriel Alves 
+  * ###  Maria Conceição 
+
+<br>
+
+# 👩‍🎓 Membros
+  * ### [**José Carlos**](https://github.com/JoseEliodoro)
+  * ### [**Paloma Morais**]()
+  * ### [**Maichel Silva**](https://github.com/Maicomxd)
+  * ### [**Silas Pereira**](https://github.com/Silas7005)
+  * ### [**Hilário Leal**](https://github.com/HLealCavalcanti)
