@@ -16,4 +16,3 @@ O projeto proposto visa realizar análises estatísticas do conjunto de dados Ne
   * ### [**Paloma Morais**](https://github.com/plmorais)
   * ### [**Maichel Silva**](https://github.com/Maicomxd)
   * ### [**Silas Pereira**](https://github.com/Silas7005)
-  * ### [**Hilário Leal**](https://github.com/HLealCavalcanti)
